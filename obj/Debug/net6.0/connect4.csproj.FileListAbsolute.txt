@@ -1,0 +1,15 @@
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\connect4.csproj.AssemblyReference.cache
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\connect4.AssemblyInfoInputs.cache
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\connect4.AssemblyInfo.cs
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\connect4.csproj.CoreCompileInputs.cache
+C:\Users\paulg\source\repos\connect4\connect4\bin\Debug\net6.0\connect4.exe
+C:\Users\paulg\source\repos\connect4\connect4\bin\Debug\net6.0\connect4.deps.json
+C:\Users\paulg\source\repos\connect4\connect4\bin\Debug\net6.0\connect4.runtimeconfig.json
+C:\Users\paulg\source\repos\connect4\connect4\bin\Debug\net6.0\connect4.dll
+C:\Users\paulg\source\repos\connect4\connect4\bin\Debug\net6.0\connect4.pdb
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\connect4.dll
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\refint\connect4.dll
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\connect4.pdb
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\connect4.genruntimeconfig.cache
+C:\Users\paulg\source\repos\connect4\connect4\obj\Debug\net6.0\ref\connect4.dll
